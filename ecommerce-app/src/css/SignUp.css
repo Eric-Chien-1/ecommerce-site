@@ -1,0 +1,20 @@
+.form{
+    padding: 20px;
+    margin: 20px auto;
+}
+.form-body{
+    text-align: left;
+    padding: 20px 10px;
+}
+.form-body > *{
+    padding: 5px;
+}
+.form__label{
+    width: 10%;
+}
+.form-control{
+    width: 30%;
+}
+.footer{
+    text-align: center;
+}
