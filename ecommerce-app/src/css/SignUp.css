@@ -1,6 +1,13 @@
+h1{
+    text-align: center;
+}
+
 .form{
     padding: 20px;
-    margin: 20px auto;
+    margin: 10px auto;
+    width: 50%;
+    box-shadow: .5px .5px 5px #333;
+    border-radius: 2%;
 }
 .form-body{
     text-align: left;
