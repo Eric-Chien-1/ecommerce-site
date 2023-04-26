@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+.footer-container{
+    background: #2E3840;
+    height: 10vh;
+    position:fixed;
+    bottom: 0;
+    width:100%;
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-size: 10px;
+}
