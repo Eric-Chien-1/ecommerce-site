@@ -1,9 +1,9 @@
-import Carousel from "./Carousel";
+import ItemCarousel from "./ItemCarousel";
 const Home = () => {
     return (
         <>
-        <Carousel />
             <h1>Welcome User!</h1>
+            <ItemCarousel />
         </>
     )
 }
