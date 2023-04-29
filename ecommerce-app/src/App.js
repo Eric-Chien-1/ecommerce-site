@@ -1,8 +1,5 @@
 import './App.css';
-import Navbar from './components/Navigation';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import LoginButton from "./components/Login";
-import LogoutButton from "./components/Logout";
+import Navbar from './components/Navigation';S
 import { useEffect } from 'react';
 import { gapi } from 'gapi-script';
 
@@ -22,7 +19,6 @@ function App() {
 
   return (<>
     <Navbar />
-    
     <footer>
       <div className='footer-container'>
         <p>Developed by: Eric Chien and Jaylon Garza</p>
