@@ -24,7 +24,7 @@ const Navigation = () => {
                     </Container>
                 </Navbar>
                 <Routes>
-                    <Route exact path="/" element={<Home />} />
+                    <Route exact path="/" />
                     <Route exact path="/Home" element={<Home />} />
                     <Route exact path="/SignUp" element={<SignUp />} />
                     <Route exact path="/SignIn" element={<SignIn />} />
